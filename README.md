@@ -1,4 +1,17 @@
-# K-Nearest Neighbors on Cardiovascular Dataset
- Preprocess and train Cardiovascular dataset with K-Nearest Neighbors algorithm (from sklearn)
- <br>
- Dataset Link --> https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
+# About
+Apply K-Nearest Neighbors algorithm on Cardiovascular Dataset from Kaggle.
+
+# Requirements
+
+**Languages**
+* Python 3
+
+**External Packages**
+* Pandas
+* sklearn
+* Numpy
+* Matplotlib
+* seaborn
+
+# Development Steps
+1) https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
