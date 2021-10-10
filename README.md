@@ -14,4 +14,7 @@ Apply K-Nearest Neighbors algorithm on Cardiovascular Dataset from Kaggle.
 * seaborn
 
 # Development Steps
-1) https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
+1) Get the dataset (https://www.kaggle.com/sulianova/cardiovascular-disease-dataset).
+2) Explore the dataset and clean the data.
+3) Data scaling (Feature scaling) with sklearn function.
+4) Train the model and predict the score.
