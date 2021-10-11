@@ -8,7 +8,7 @@ Apply K-Nearest Neighbors algorithm on Cardiovascular Dataset from Kaggle.
 
 **External Packages**
 * Pandas
-* sklearn
+* Sklearn
 * Numpy
 * Matplotlib
 * seaborn
