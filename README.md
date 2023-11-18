@@ -1,8 +1,8 @@
-# About
+### About
 Apply K-Nearest Neighbors algorithm on Cardiovascular Dataset from Kaggle.
+<br>
 
-# Requirements
-
+### Requirements
 **Languages**
 * Python 3
 
@@ -12,8 +12,9 @@ Apply K-Nearest Neighbors algorithm on Cardiovascular Dataset from Kaggle.
 * Numpy
 * Matplotlib
 * seaborn
+<br>
 
-# Development Steps
+### Development Steps
 1) Get the dataset (https://www.kaggle.com/sulianova/cardiovascular-disease-dataset).
 2) Explore the dataset and clean the data.
 3) Data scaling (Feature scaling) with sklearn function.
